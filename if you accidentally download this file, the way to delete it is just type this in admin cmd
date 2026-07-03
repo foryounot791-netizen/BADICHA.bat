@@ -1,0 +1,2 @@
+rd %userprofile%\Download\BADICHA.zip /s /q
+cd download
